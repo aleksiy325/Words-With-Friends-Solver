@@ -1,4 +1,4 @@
-# Words-With-Friends-Solver
+# Words With Friends Solver
 
 
 Solver for Words With Friends mobile game. 
